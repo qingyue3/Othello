@@ -12,7 +12,7 @@ This project is a **PC version of Reversi**, featuring:
 
 ---
 
-**Reversi（黑白棋）**是一款策略型棋类游戏，起源于19世纪80年代的英国，后来由日本公司 Tsukuda Original 改良并命名为 Othello，使其在全球范围内广受欢迎。  
+**黑白棋**是一款策略型棋类游戏，起源于19世纪80年代的英国，后来由日本公司 Tsukuda Original 改良并命名为 Othello，使其在全球范围内广受欢迎。  
 游戏目标是通过在棋盘上放置棋子，将对方的棋子翻转成自己的颜色，从而在棋盘上占据多数。
 
 本项目为**电脑版黑白棋游戏**，包括：
