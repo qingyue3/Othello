@@ -21,3 +21,19 @@ This project is a **PC version of Reversi**, featuring:
 
 ---
 
+## 📁 Directory Structure | 目录结构
+- `Game/Othello.exe` — Compiled executable file ready to run  
+- `Othello/Assets/Algorithms` — Contains AI strategy implementations  
+- `Othello/Assets/Scripts` — Main logic and board interaction scripts
+
+---
+
+## 🚀 How to Run | 使用方法
+
+1. Download or clone this repository  
+2. Run the **Othello.exe** file in the `Game` folder  
+3. Enjoy the game in either multiplayer mode or challenge the AI!
+
+1. 下载或克隆本项目仓库  
+2. 在 `Game` 文件夹中运行 **Othello.exe**
+3. 可选择双人对战或挑战AI模式！
