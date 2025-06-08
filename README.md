@@ -1,7 +1,7 @@
 # Implement Reversi with Different Strategies  
 # 基于多种策略实现的黑白棋游戏
 
-## 🧩 Project Introduction | 项目介绍
+##  Project Introduction | 项目介绍
 
 **Reversi**, also known as **Othello**, is a classic strategy board game that originated in the United Kingdom around the 1880s and was later rebranded by the Japanese company Tsukuda Original.  
 Players compete to outnumber their opponent’s discs on the board by sandwiching them between two of their own.
@@ -21,14 +21,14 @@ This project is a **PC version of Reversi**, featuring:
 
 ---
 
-## 📁 Directory Structure | 目录结构
+##  Directory Structure | 目录结构
 - `Game/Othello.exe` — Compiled executable file ready to run  
 - `Othello/Assets/Algorithms` — Contains AI strategy implementations  
 - `Othello/Assets/Scripts` — Main logic and board interaction scripts
 
 ---
 
-## 🚀 How to Run | 使用方法
+##  How to Run | 使用方法
 
 1. Download or clone this repository  
 2. Run the **Othello.exe** file in the `Game` folder  
